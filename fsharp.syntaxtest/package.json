@@ -86,7 +86,7 @@
     "vscode-textmate": "^2.1.1"
   },
   "devDependencies": {
-    "vscode": "^0.11.17",
+    "vscode": "^1.1.37",
     "fable-compiler": "^0.5.6"
   }
 }
