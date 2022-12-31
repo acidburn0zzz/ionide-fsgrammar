@@ -87,6 +87,6 @@
   },
   "devDependencies": {
     "vscode": "^0.11.17",
-    "fable-compiler": "^0.5.6"
+    "fable-compiler": "^2.13.0"
   }
 }
