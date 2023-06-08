@@ -80,7 +80,7 @@
     "build": "fable ../src/FSharp.SyntaxTools.fsproj -s -o ../fsharp.syntaxtest -m commonjs --verbose"
   },
   "dependencies": {
-    "axios": "^0.13.1",
+    "axios": "^0.21.2",
     "fable-core": "^0.5.4",
     "node-gyp": "^3.4.0",
     "vscode-textmate": "^2.1.1"
